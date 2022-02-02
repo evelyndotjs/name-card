@@ -1,6 +1,7 @@
 .about-wrapper {
   padding: 33px 34px 24px 36px;
   background-color: #1a1b21;
+  border-radius: 0;
 }
 
 .about-title,

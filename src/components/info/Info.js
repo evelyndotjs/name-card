@@ -1,5 +1,5 @@
 import "./Info.css";
-import profile from "../../images/profile-yellow.PNG";
+import profile from "../../images/profile-regular.JPG";
 
 function Info() {
   return (
